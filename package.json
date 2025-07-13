@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:cloudbase": "BUILD_OUT_DIR=/root/cloudbase-workspace/dist vite build",
+    "build:cloudbase": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
